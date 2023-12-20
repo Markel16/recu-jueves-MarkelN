@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarkelNuñezVirto\\OneDrive - EUNEIZ\\Workspace\\Recu\\Recu\\Recu.csproj",
+      "projectUniqueName": "C:\\Users\\MarkelNuñezVirto\\OneDrive - EUNEIZ\\Workspace\\recu-jueves-MarkelN\\recu-jueves-MarkelN\\Recu\\Recu\\Recu.csproj",
       "projectName": "Recu",
-      "projectPath": "C:\\Users\\MarkelNuñezVirto\\OneDrive - EUNEIZ\\Workspace\\Recu\\Recu\\Recu.csproj",
+      "projectPath": "C:\\Users\\MarkelNuñezVirto\\OneDrive - EUNEIZ\\Workspace\\recu-jueves-MarkelN\\recu-jueves-MarkelN\\Recu\\Recu\\Recu.csproj",
       "packagesPath": "C:\\Users\\MarkelNuñezVirto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MarkelNuñezVirto\\OneDrive - EUNEIZ\\Workspace\\Recu\\Recu\\obj\\",
+      "outputPath": "C:\\Users\\MarkelNuñezVirto\\OneDrive - EUNEIZ\\Workspace\\recu-jueves-MarkelN\\recu-jueves-MarkelN\\Recu\\Recu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MarkelNuñezVirto\\AppData\\Roaming\\NuGet\\NuGet.Config",
